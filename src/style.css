@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+.rct-node-icon {
+  display: none;
+}
+
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag-box {
+  background-color: #eee;
+  padding: 8px;
+  margin: 4px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
